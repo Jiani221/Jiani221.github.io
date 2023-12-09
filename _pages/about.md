@@ -14,4 +14,4 @@ I am very fortunate to be advised by xxx.
 
 I'm obsessed with gourmet food. And to tell the truth, I'm a superhero saving the planet. If you want to join us, please don't hesitate to contact me.
 
-You can find my CV here: [Jiani Lei's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Jiani Lei's Curriculum Vitae](../assets/CV_Jiani.pdf).
